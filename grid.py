@@ -1,7 +1,7 @@
 """
 /***************************************************************************
 Name                 : Sample Areas Grid for Quality Review
-Description          : Generates a grid of sample areas for quality review ( 2.14 or above )
+Description          : Generates a grid of sample areas for quality review ( QGIS 2.14 or above )
 Date                 : September, 2017.
 copyright            : (C) 2017 by Alex Santos and Viviane Diniz
 email                : alex.santos@ibge.gov.br / viviane.diniz@ibge.gov.br
