@@ -16,12 +16,21 @@ email                : alex.santos@ibge.gov.br / viviane.diniz@ibge.gov.br
  *   (at your option) any later version.                                   *
  *                                                                         *
  ***************************************************************************/
- 
+ /***************************************************************************
+ *   Manual de uso:                                                        * 
+ *   Este script foi elaborado para ser utilizado no ambiente SIG QGIS.    *
+ *   Desta forma, no ambiente QGIS, realize os seguintes procedimentos de  *
+ *   instalação:                                                           *
+ *        1 - Em “Processar” habilitar a “Caixa de Ferramentas”.           * 
+ *        2 - Em “Scripts” ir até o menu “Tools” > “Add script from file”. *  
+ *   Adicionar o script ".py" desejado.                                    *
+ *  Nota:                                                                  *  
+ *   as versões mais recentes e novos desenvolvimentos ficaram disponíveis *
+ *   em: https://github.com/alxcart                                        *
+ ***************************************************************************/
+ Fonte: Adaptado de:
  Grid generation code adapted from https://gis.stackexchange.com/questions/79916/how-to-generate-a-grid-programmatically-in-python-without-gui
- 
-"""
-
-
+ """
 ##Controle de Qualidade=group
 ##Gera Areas para Inspecao=name
 
